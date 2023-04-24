@@ -54,7 +54,7 @@ Para o desenvolvimento deste projeto, foram utilizadas as seguintes ferramentas:
 Este projeto adotou a metodologia CRISP-DM (Cross Industry Process - Data Mining), desenvolvida por um consórcio de mais de 200 organizações interessadas em mineração de dados. O processo é amplamente utilizado como padrão de processo analítico desde 1999 e é flexível para se adequar a muitos métodos analíticos, incluindo Data Science. Embora a versão original seja composta por seis fases, neste projeto, foi utilizada uma versão estendida com dez fases.
 
 <p align="center">
-  <img src="https://github.com/raquelEllem/rossmann_store_sales/blob/main/rossmann_store_sales/img/ciclo_crisp.jpg" alt="Ciclo do CRISP" width="600" height="300">
+  <img src="https://github.com/raquelEllem/rossmann_store_sales/blob/main/rossmann_store_sales/img/ciclo_crisp.jpg" alt="Ciclo do CRISP">
 </p>
 
 
