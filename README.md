@@ -320,12 +320,9 @@ Outro aspecto relevante é a obtenção de insights valiosos para outras melhori
 
 ## 11. Próximos passos
 
--   Implementar a separação dos dados de treinamento e teste desde o início do projeto para garantir que não haja vazamento de informações.
--   Pesquisar por dados externos relevantes, como informações sobre o clima, eventos nacionais e indicadores macroeconômicos, para aprimorar a precisão do modelo.
--   Considerar agrupar as lojas por região para facilitar a análise e interpretação dos resultados.
--   Atualizar as informações de 'competition_open_since_year/month' para uma única data por loja, a fim de aprimorar a consistência dos dados.
--   Experimentar o método de pesquisa bayesiana durante o processo de fine tunning para otimizar o desempenho do modelo.
--   Incluir um gráfico diário das previsões no aplicativo Telegram, juntamente com outras informações relevantes. Isso permitirá uma visualização clara e rápida das previsões, facilitando a tomada de decisões pelos usuários do aplicativo.
+-   Realizar um workshop do modelo para os usuários de negócios para garantir que atenda às suas necessidades e expectativas.
+-   Coletar feedbacks sobre a usabilidade do modelo para identificar quaisquer problemas e oportunidades de melhoria.
+-   Definir uma meta de aumentar a acurácia do modelo em 10%, trabalhando em melhorias específicas no processo de treinamento e validação.
 
 ## 12. Referências
 
